@@ -3,7 +3,7 @@ Creating this to host a group project from our MSSA PSCA12 Cohort
 
 We hope to utilize this repositoroy to host a group project to create PowerShell Script that will help with Azure deployments.  
 
-#Disclaimer
+# Disclaimer
 
 The scripts, challenges, and information provided in this repository are intended for educational and illustrative purposes only. While we strive for accuracy and quality, use these resources at your own risk. We make no warranties or guarantees regarding their suitability, reliability, or fitness for any specific purpose.
 
